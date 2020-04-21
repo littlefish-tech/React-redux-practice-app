@@ -4,5 +4,5 @@ export const ADD = 'ADD';
 export const SUBTRACT = 'SUBTRACT';
 export const STORE_RESULT = 'STORE_RESULT';
 export const DELETE_RESULT = 'DELETE_RESULT';
-export const TIMES_RESULE = 'TIMES_RESULE';
+export const TIMES_RESULT = 'TIMES_RESULT';
 export const DIVID_RESULT = 'DIVID_RESULT';
